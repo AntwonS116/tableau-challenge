@@ -1,0 +1,19 @@
+City Bike Analysis 
+
+- The Month of May saw an increase slightly over 170 percent. Possibly people were getting excited for warmer weather. 
+
+- October saw the most riders. The cool but not too cold weather could have persauded more riders.
+
+- The top ten and the bottom ten stations for 2020 are the same stations. Suggesting the same stations are the most popular to travel too and from.
+ 
+- During the summer months there are more riders around six o'clock in the evening in comparison to the winter where most riders are around 8 o'clock in the morning. 
+
+- There are a total of 1,846 bikes.
+
+- The average distance traveled is 0.6623 miles. Suggesting most trips are less than half a mile. Maybe an incentive could be added to make riders want to ride longer. 
+
+- Total number of trips: 13,686,883,214
+
+- Male riders in the 25 to 34 years old category almost double the amount of females in the same age group. 
+
+- In the age analysis there are records of people being 132 years old. This indicates that there are outliers in the dataset, and also indicates that some of the data is not accurate. 

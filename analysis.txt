@@ -12,8 +12,6 @@ City Bike Analysis
 
 - The average distance traveled is 0.6623 miles. Suggesting most trips are less than half a mile. Maybe an incentive could be added to make riders want to ride longer. 
 
-- Total number of trips: 13,686,883,214
-
 - Male riders in the 25 to 34 years old category almost double the amount of females in the same age group. 
 
 - In the age analysis there are records of people being 132 years old. This indicates that there are outliers in the dataset, and also indicates that some of the data is not accurate. 
